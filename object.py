@@ -40,21 +40,21 @@
 #_________________________________________
 #_________________________________________
 #_________________________________________
-class Consider:
-    def __init__(self,name,age):
-        self.name=name
-        self.age=age
+# class Consider:
+#     def __init__(self,name,age):
+#         self.name=name
+#         self.age=age
       
           
 
-    def myFun(self):
-        if(self.age>18):
-          print(self.name+"is more than",self.age)
+#     def myFun(self):
+#         if(self.age>18):
+#           print(self.name+"is more than",self.age)
 
-con=Consider("yazdan",10) 
-con.age=20 
-#del con.age
-con.myFun()
+# con=Consider("yazdan",10) 
+# con.age=20 
+# #del con.age
+# con.myFun()
 
 
 #_________________________________________
